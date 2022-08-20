@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Bruna Amaral.
 
-- 🔭 Atualmente estou criando projetos pessoais para meu aprendizado com front-end
-- 🌱 Estou estudando o Bootcamp Spread Fullstack Developer
+- 🔭 Atualmente estou criando projetos pessoais e estagiando como desenvolvedora web em Java
 - 😄 Pronouns: ela/dela
 
   <div align="center">
