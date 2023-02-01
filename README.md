@@ -16,7 +16,7 @@
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bru-java" height="30" width="40" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=f00505">
+  <img align="center" alt="Bru-java" height="30" width="40" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=140&color=f5f5f5">
 </div>
   
   ##
