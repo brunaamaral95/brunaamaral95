@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bruna Amaral.
 
-- 🔭 Atualmente estou criando projetos pessoais, estudando para desenvolvimento FullStack  e estagiando como desenvolvedora web em Java (back-end).
+- 🔭 Atualmente estou criando projetos pessoais, estudando para desenvolvimento Full Stack  e estagiando como desenvolvedora web em Java (back-end).
 - 😄 Pronouns: ela/dela
 
   <div align="center">
