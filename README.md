@@ -7,37 +7,49 @@
   <a href="https://twitter.com/DevBrunaa">
     <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
-  <a href="[https://www.linkedin.com/in/jeniffer-bittencourt](https://www.linkedin.com/in/brunaamaraldev/)">
+  <a href="https://www.linkedin.com/in/brunaamaraldev/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
 
-- 🔭 Atualmente estou criando projetos pessoais, estudando para desenvolvimento Full Stack  e estagiando como desenvolvedora web em Java .
-- 😄 Pronouns: ela/dela
+</br>
+</br>
 
-  <div align="center">
-  <a href="https://github.com/brunaamaral95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaamaral95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaamaral95&layout=compact&langs_count=7&theme=dracula"/>
+## Olá, Devs!!
+
+Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e animais de estimação! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor"  title = "MongoDB"/></code>
+<code><img width="40px" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" title = "React"/></code>
+<code><img width="40px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" title = "TypeScript"/></code>
+<code><img width="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title = "Node"/></code>
+<code><img width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" title = "Bootstrap"/></code>
+
+</br>
+</br>
+
+<div display="inline-block">
+ <p align="left">📚 Tenho estudado as atuais tecnologias para o desenvolvimento Full Stack;</p>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bru-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bru-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bru-java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=140&color=f5f5f5">
-</div>
-  
-  ##
-  
-  <div> 
+
+</br>
+</br>
+
+
+
+
+
  
-  <a href="https://instagram.com/brunaa.08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:contatorabrunaamaral95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunaamaral95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
