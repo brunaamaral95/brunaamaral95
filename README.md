@@ -18,8 +18,17 @@
 
 ## Olá, Devs!!
 
-Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e cães! Sou graduada em Análise e desenvolvimento de sistemas pelo Centro Universitário IBMR. Trabalho como desenvolvedora web JAVA (Estágio). 
-Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pessoais para práticar.
+Olá, meu nome é Bruna e sou uma desenvolvedora web que está estudando para se tornar full stack. Estou animada em compartilhar com vocês minha jornada de aprendizado e crescimento no mundo da programação.
+
+Como desenvolvedor web, meu objetivo é criar soluções tecnológicas eficazes e inovadoras que atendam às necessidades dos usuários e melhorem suas experiências online. Eu sou apaixonado por explorar novas tecnologias e desafios de programação, e estou sempre procurando expandir meus conhecimentos em diferentes áreas, como desenvolvimento front-end, back-end e banco de dados.
+
+Atualmente, estou estudando no Alura e Descomplica trilhas Full Stack, onde estou aprendendo habilidades essenciais, como React, TypeScript, MongoDB, Node, MYSQL. Além disso, trabalho em projetos pessoais para aprimorar minhas habilidades práticas e aplicar os conceitos que aprendo em aula.
+
+Um dos meus objetivos é me tornar uma desenvolvedora full stack, para ter uma visão mais ampla e ser capaz de criar soluções completas e complexas. Sei que o caminho será desafiador, mas estou disposto a continuar estudando e praticando para alcançar meus objetivos.
+
+Uma das plataformas que tenho utilizado para mostrar meu trabalho é o GitHub, onde compartilho meus projetos e contribuições em projetos de código aberto. Isso me ajuda a me conectar com outros desenvolvedores e expandir minha rede profissional.
+
+Estou empolgada em seguir minha carreira como desenvolvedora Full Stack e espero que minha jornada inspire outras mulheres a ingressar na área de tecnologia. Acredito que a diversidade e inclusão são fundamentais para um ambiente de trabalho criativo e inovador, e espero fazer minha parte para tornar a tecnologia um setor mais acessível e inclusivo.
 
 
 </br>
