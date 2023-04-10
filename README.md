@@ -1,4 +1,17 @@
-## Olá! Eu sou a Bruna Amaral.
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Bruna Amaral</h1>
+ <a href="https://www.instagram.com/brunaa.08/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/DevBrunaa">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="[https://www.linkedin.com/in/jeniffer-bittencourt](https://www.linkedin.com/in/brunaamaraldev/)">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
 
 - 🔭 Atualmente estou criando projetos pessoais, estudando para desenvolvimento Full Stack  e estagiando como desenvolvedora web em Java .
 - 😄 Pronouns: ela/dela
