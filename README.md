@@ -18,7 +18,8 @@
 
 ## Olá, Devs!!
 
-Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e cães! Sou iniciante no universo da programação, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e cães! Sou graduada em Análise e desenvolvimento de sistemas pelo Centro Universitário IBMR. Trabalho como desenvolvedora web JAVA (Estágio). 
+Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pessoais para práticar meu desenvolvimento.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -41,13 +42,6 @@ Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e c�
 </br>
 </br>
 
-<div display="inline-block">
- <p align="left">📚 Tenho estudado as atuais tecnologias para o desenvolvimento Full Stack;</p>
- <p align="left">📚 Trabalho como estagiária em desenvolvimento web JAVA;</p>
-</div>
-
-</br>
-</br>
 
 
 
