@@ -19,7 +19,7 @@
 ## Olá, Devs!!
 
 Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e cães! Sou graduada em Análise e desenvolvimento de sistemas pelo Centro Universitário IBMR. Trabalho como desenvolvedora web JAVA (Estágio). 
-Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pessoais para práticar meu desenvolvimento.
+Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pessoais para práticar.
 
 
 </br>
