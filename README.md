@@ -21,9 +21,18 @@
 Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e cães! Sou graduada em Análise e desenvolvimento de sistemas pelo Centro Universitário IBMR. Trabalho como desenvolvedora web JAVA (Estágio). 
 Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pessoais para práticar meu desenvolvimento.
 
+
+</br>
+</br>
+
+
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
+
+</br>
+</br>
+
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -39,8 +48,7 @@ Venho estudado pelo Alura, Descomplica trilhas Full Stack e criado projetos pess
 <code><img width="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" title = "Node"/></code>
 <code><img width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" title = "Bootstrap"/></code>
 
-</br>
-</br>
+
 
 
 
