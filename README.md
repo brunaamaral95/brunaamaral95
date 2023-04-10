@@ -43,6 +43,7 @@ Tenho 27 anos, moro no Rio de Janeiro/RJ e sou apaixonada por programação e c�
 
 <div display="inline-block">
  <p align="left">📚 Tenho estudado as atuais tecnologias para o desenvolvimento Full Stack;</p>
+ <p align="left">📚 Trabalho como estagiária em desenvolvimento web JAVA;</p>
 </div>
 
 </br>
