@@ -18,7 +18,7 @@
 
 ## Olá, Devs!!
 
-Olá, meu nome é Bruna e sou uma desenvolvedora web que está estudando para se tornar full stack. Estou animada em compartilhar com vocês minha jornada de aprendizado e crescimento no mundo da programação.
+Olá, meu nome é Bruna e sou uma desenvolvedora web que está estudando para se tornar fullStack. Estou animada em compartilhar com vocês minha jornada de aprendizado e crescimento no mundo da programação.
 
 Como desenvolvedor web, meu objetivo é criar soluções tecnológicas eficazes e inovadoras que atendam às necessidades dos usuários e melhorem suas experiências online. Eu sou apaixonado por explorar novas tecnologias e desafios de programação, e estou sempre procurando expandir meus conhecimentos em diferentes áreas, como desenvolvimento front-end, back-end e banco de dados.
 
