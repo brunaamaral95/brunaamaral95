@@ -20,7 +20,7 @@
 
 Olá, meu nome é Bruna e sou uma desenvolvedora web que está estudando para se tornar FullStack. Estou animada em compartilhar com vocês minha jornada de aprendizado e crescimento no mundo da programação.
 
-Como desenvolvedor web, meu objetivo é criar soluções tecnológicas eficazes e inovadoras que atendam às necessidades dos usuários e melhorem suas experiências online. Eu sou apaixonado por explorar novas tecnologias e desafios de programação, e estou sempre procurando expandir meus conhecimentos em diferentes áreas, como desenvolvimento front-end, back-end e banco de dados.
+Como desenvolvedora web, meu objetivo é criar soluções tecnológicas, eficazes e inovadoras que atendam às necessidades dos usuários e melhorem suas experiências online. Eu sou apaixonado por explorar novas tecnologias e desafios de programação, e estou sempre procurando expandir meus conhecimentos em diferentes áreas, como desenvolvimento front-end, back-end e banco de dados.
 
 Atualmente, estou estudando no Alura e Descomplica trilhas Full Stack, onde estou aprendendo habilidades essenciais, como React, TypeScript, MongoDB, Node, MYSQL. Além disso, trabalho em projetos pessoais para aprimorar minhas habilidades práticas e aplicar os conceitos que aprendo em aula.
 
