@@ -24,7 +24,7 @@ Como desenvolvedora web, meu objetivo é criar soluções tecnológicas, eficaze
 
 Atualmente, estou estudando no Alura e Descomplica trilhas FullStack, onde estou aprendendo habilidades essenciais, como React, TypeScript, MongoDB, Node, MYSQL. Além disso, trabalho em projetos pessoais para aprimorar minhas habilidades práticas e aplicar os conceitos que aprendo em aula.
 
-Um dos meus objetivos é me tornar uma desenvolvedora full stack, para ter uma visão mais ampla e ser capaz de criar soluções completas e complexas. Sei que o caminho será desafiador, mas estou disposto a continuar estudando e praticando para alcançar meus objetivos.
+Um dos meus objetivos é me tornar uma desenvolvedora FullStack, para ter uma visão mais ampla e ser capaz de criar soluções completas e complexas. Sei que o caminho será desafiador, mas estou disposta a continuar estudando e praticando para alcançar meus objetivos.
 
 Uma das plataformas que tenho utilizado para mostrar meu trabalho é o GitHub, onde compartilho meus projetos e contribuições em projetos de código aberto. Isso me ajuda a me conectar com outros desenvolvedores e expandir minha rede profissional.
 
